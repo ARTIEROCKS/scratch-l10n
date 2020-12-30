@@ -145,6 +145,7 @@
     "gui.menuBar.artie.help.modalTitle": "ARTIE Help",
     "gui.menuBar.artie.help.addElements": "List of elements to add:",
     "gui.menuBar.artie.help.delElements": "List of elements to delete:",
+    "gui.menuBar.artie.help.congrats": "Congratulations! You have completed the exercise!",
     "gui.gui.projectTitlePlaceholder": "Project title here",
     "gui.menuBar.saveNowLink": "Save Now",
     "gui.menuBar.isShared": "Shared",

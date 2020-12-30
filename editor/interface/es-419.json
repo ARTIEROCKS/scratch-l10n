@@ -130,6 +130,7 @@
     "gui.menuBar.artie.help.modalTitle": "Ayuda de ARTIE",
     "gui.menuBar.artie.help.addElements": "Lista de elementos que habría que añadir:",
     "gui.menuBar.artie.help.delElements": "Lista de elementos que habría que eliminar:",
+    "gui.menuBar.artie.help.congrats": "¡Enhorabuena!¡Has completado el ejercicio!",
     "gui.gui.projectTitlePlaceholder": "Título del proyecto aquí",
     "gui.menuBar.saveNowLink": "Guardar ahora",
     "gui.menuBar.isShared": "Compartidos",
