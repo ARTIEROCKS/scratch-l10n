@@ -150,6 +150,7 @@
     "gui.menuBar.artie.help.incorrectInputValues": "List of values to replace:",
     "gui.menuBar.artie.help.currentValue": "Current values",
     "gui.menuBar.artie.help.expectedValue": "Expected values",
+    "gui.menuBar.artie.help.mispacedElements": "List of misplaced items:",
     "gui.gui.projectTitlePlaceholder": "Project title here",
     "gui.menuBar.saveNowLink": "Save Now",
     "gui.menuBar.isShared": "Shared",
