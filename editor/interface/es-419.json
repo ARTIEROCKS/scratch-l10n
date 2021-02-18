@@ -5,6 +5,7 @@
     "gui.artie.solution.sent": "¡La solución se ha enviado con éxito!",
     "gui.artie.exercise.sent": "¡El ejercicio se ha enviado con éxito!",
     "gui.artie.evaluation.welcome": "Bienvenido",
+    "gui.artie.evaluation.congratulations" : "Enhorabuena",
     "gui.artie.evaluation.welcome.padawan": "Bienvenido al nivel Padawan",
     "gui.artie.evaluation.message.padawan": "Bienvenido al nivel Padawan, ésta es la tarea que tienes que completar:",
     "gui.artie.evaluation.welcome.jedi": "Bienvenido al nivel Jedi",
