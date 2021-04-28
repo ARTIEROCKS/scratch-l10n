@@ -19,6 +19,7 @@
     "gui.artie.data.gender.boy": "Boy",
     "gui.artie.data.gender.girl": "Girl",
     "gui.artie.data.motherTongue.spanish":  "Is Spanish your mother tongue?",
+    "gui.artie.data.age": "How old are you?",
     "gui.artie.yes": "Yes",
     "gui.artie.no": "No",
     "gui.connection.reconnect": "Reconnect",
