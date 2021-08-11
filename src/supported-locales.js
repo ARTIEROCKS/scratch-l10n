@@ -8,8 +8,10 @@ const locales = {
     'af': {name: 'Afrikaans'},
     'ar': {name: 'العربية'},
     'am': {name: 'አማርኛ'},
+    'an': {name: 'Aragonés'},
     'az': {name: 'Azeri'},
     'id': {name: 'Bahasa Indonesia'},
+    'bn': {name: 'বাংলা'},
     'be': {name: 'Беларуская'},
     'bg': {name: 'Български'},
     'ca': {name: 'Català'},
@@ -20,11 +22,12 @@ const locales = {
     'et': {name: 'Eesti'},
     'el': {name: 'Ελληνικά'},
     'en': {name: 'English'},
-    'es': {name: 'Español'},
+    'es': {name: 'Español (España)'},
     'es-419': {name: 'Español Latinoamericano'},
     'eu': {name: 'Euskara'},
     'fa': {name: 'فارسی'},
     'fr': {name: 'Français'},
+    'fy': {name: 'Frysk'},
     'ga': {name: 'Gaeilge'},
     'gd': {name: 'Gàidhlig'},
     'gl': {name: 'Galego'},
@@ -37,6 +40,7 @@ const locales = {
     'is': {name: 'Íslenska'},
     'it': {name: 'Italiano'},
     'ka': {name: 'ქართული ენა'},
+    'kk': {name: 'қазақша'},
     'qu': {name: 'Kichwa'},
     'sw': {name: 'Kiswahili'},
     'ht': {name: 'Kreyòl ayisyen'},
@@ -79,9 +83,14 @@ const locales = {
 const customLocales = {
     'ab': {
         locale: 'ab',
-        parentLocale: 'az'
+        parentLocale: 'ru'
     },
-    // haitian creole is not in react-intl locales
+    // Aragonese is not in the locale data, using es for Spain
+    'an': {
+        locale: 'an',
+        parentLocale: 'es'
+    },
+    // haitian creole is not in locale-langData
     'ht': {
         locale: 'ht',
         parentLocale: 'fr'
@@ -90,7 +99,7 @@ const customLocales = {
         locale: 'rap',
         parentLocale: 'es'
     },
-    // TODO: replace zh-cn, zh-tw with zh-Hans and zh-Hant
+    // TODO: replace zh-cn, zh-tw with zh-Hans and zh-Hant then customLocales is unnecessary
     'zh-cn': {
         locale: 'zh-cn',
         parentLocale: 'zh'
@@ -122,4 +131,4 @@ const isRtl = locale => {
     return rtlLocales.indexOf(locale) !== -1;
 };
 
-export {locales as default, customLocales, localeMap, rtlLocales, isRtl};
+export {locales as default, customLocales, localeMap, isRtl};
