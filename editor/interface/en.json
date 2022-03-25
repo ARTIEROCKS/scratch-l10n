@@ -156,7 +156,7 @@
     "gui.menuBar.artie.noExercise": "No exercise selected",
     "gui.menuBar.artie.selectExercise": "Select exercise",
     "gui.menuBar.artie.changeExercise": "Change exercise",
-    "gui.menuBar.artie.exitEvaluation": "Exit from the test",
+    "gui.menuBar.artie.exitEvaluation": "Finish the evaluation",
     "gui.menuBar.artie.exercises.ok": "OK",
     "gui.menuBar.artie.exercises.cancel": "Cancel",
     "gui.menuBar.artie.finishExercise": "Send finished exercise",
