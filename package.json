@@ -1,7 +1,7 @@
 {
-    "name": "scratch-l10n",
-    "version": "3.15.0",
-    "description": "Localization for the Scratch 3.0 components",
+    "name": "artie-scratch-l10n",
+    "version": "3.18.0-artie",
+    "description": "Localization for the Scratch 3.0 components for ARTIE implementation",
     "main": "./dist/l10n.js",
     "browser": "./src/index.js",
     "bin": {
