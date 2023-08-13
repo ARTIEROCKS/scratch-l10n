@@ -34,6 +34,7 @@
     "teacherbanner.classesButton": "Luokkani",
     "teacherbanner.faqButton": "Opettajatilin UKK",
     "hocbanner.title": "Ole ohjelmoimalla luova!",
+    "hocbanner.titleTellStory": "Tell Your Story with Scratch!",
     "hocbanner.moreActivities": "Katso lisää aktiviteetteja",
     "hocbanner.imagine": "Kuvittele maailma",
     "hocbanner.codeACartoon": "Koodaa sarjakuva",
@@ -41,10 +42,15 @@
     "hocbanner.makeItFly": "Lennätä sitä",
     "hocbanner.makeMusic": "Tee musiikkia",
     "hocbanner.chaseGame": "Tee jahtauspeli",
+    "hocbanner.createAStory": "Luo tarina",
+    "hocbanner.animateACharacter": "Animoi hahmo",
     "welcome.welcomeToScratch": "Tervetuloa Scratchiin!",
     "welcome.learn": "Lue kuinka tehdä projekteja Scratchissa",
     "welcome.tryOut": "Kokeile aloitusprojekteja",
     "welcome.connect": "Hae muita scratchaajia",
     "activity.seeUpdates": "Tähän tulevat päivitykset Scratchaajilta, joita seuraat",
-    "activity.checkOutScratchers": "Tutustu Scratchaajiin, joita haluat ehkä seurata"
+    "activity.checkOutScratchers": "Tutustu Scratchaajiin, joita haluat ehkä seurata",
+    "featurebanner.highContrast.comingSoon": "TULOSSA PIAN: Värikontrastit Scratchissa!",
+    "featurebanner.highContrast.forumTitle": "Lohkojen väriasetukset ja sivuston päivitykset",
+    "featurebanner.highContrast.learnMore": "Lue lisää"
 }

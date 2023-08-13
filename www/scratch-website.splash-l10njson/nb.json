@@ -34,6 +34,7 @@
     "teacherbanner.classesButton": "Mine klasser",
     "teacherbanner.faqButton": "Spørsmål og svar om lærerkontoer",
     "hocbanner.title": "Vær kreativ med koding!",
+    "hocbanner.titleTellStory": "Tell Your Story with Scratch!",
     "hocbanner.moreActivities": "Se flere aktiviteter",
     "hocbanner.imagine": "Fantasiverden",
     "hocbanner.codeACartoon": "Lag en tegneserie",
@@ -41,10 +42,15 @@
     "hocbanner.makeItFly": "Få det til å fly",
     "hocbanner.makeMusic": "Lag musikk",
     "hocbanner.chaseGame": "Lag et jaktespill",
+    "hocbanner.createAStory": "Lag en fortelling",
+    "hocbanner.animateACharacter": "Animasjon med en figur",
     "welcome.welcomeToScratch": "Velkommen til Scratch!",
     "welcome.learn": "Lær å lage ditt eget program med Scratch",
     "welcome.tryOut": "For nybegynnere",
     "welcome.connect": "Ta kontakt med andre Scratchere",
     "activity.seeUpdates": "Her ser du nye ting fra Scratchere som du følger",
-    "activity.checkOutScratchers": "Her er noen Scratchere du kan være interessert i å følge"
+    "activity.checkOutScratchers": "Her er noen Scratchere du kan være interessert i å følge",
+    "featurebanner.highContrast.comingSoon": "COMING SOON: Color Contrast in Scratch!",
+    "featurebanner.highContrast.forumTitle": "Block Color Settings and Site Updates",
+    "featurebanner.highContrast.learnMore": "Lær mer"
 }

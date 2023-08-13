@@ -34,6 +34,7 @@
     "teacherbanner.classesButton": "Мої класи",
     "teacherbanner.faqButton": "Питання по обліковому запису вчителя",
     "hocbanner.title": "Розвивай фантазію програмуючи!",
+    "hocbanner.titleTellStory": "Tell Your Story with Scratch!",
     "hocbanner.moreActivities": "Переглянути більше вправ",
     "hocbanner.imagine": "Уявити світ",
     "hocbanner.codeACartoon": "Кодувати мультик",
@@ -41,10 +42,15 @@
     "hocbanner.makeItFly": "Зробити політ",
     "hocbanner.makeMusic": "Створити музику",
     "hocbanner.chaseGame": "Створити ігри-переслідування",
+    "hocbanner.createAStory": "Створити розповідь",
+    "hocbanner.animateACharacter": "Анімувати персонажа",
     "welcome.welcomeToScratch": "Ласкаво просимо до Скретчу!",
     "welcome.learn": "Дізнатись як створити проект у Скретчі",
     "welcome.tryOut": "Спробувати прості проекти",
     "welcome.connect": "Спілкуватися з іншими скретчерами",
     "activity.seeUpdates": "Тут ви будете бачити оновлення від скретчерів яким слідуєте",
-    "activity.checkOutScratchers": "Check out some Scratchers you might like to follow"
+    "activity.checkOutScratchers": "Check out some Scratchers you might like to follow",
+    "featurebanner.highContrast.comingSoon": "НЕЗАБАРОМ: Кольоровий контраст в Scratch!",
+    "featurebanner.highContrast.forumTitle": "Налаштування кольорової гами блоків та сайту",
+    "featurebanner.highContrast.learnMore": "Дізнатись більше"
 }

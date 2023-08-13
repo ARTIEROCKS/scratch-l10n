@@ -34,6 +34,7 @@
     "teacherbanner.classesButton": "Diphaphoši tša ka",
     "teacherbanner.faqButton": "Akhaonte ya morutiši FAQ ",
     "hocbanner.title": "E ba le bokgoni ka Go khouta!",
+    "hocbanner.titleTellStory": "Tell Your Story with Scratch!",
     "hocbanner.moreActivities": "Bona mešongwana yeo e oketšegilego",
     "hocbanner.imagine": "Nagana lefase",
     "hocbanner.codeACartoon": "Khouta Popo",
@@ -41,10 +42,15 @@
     "hocbanner.makeItFly": "Dira gore e Fofe",
     "hocbanner.makeMusic": "Dira Mmino",
     "hocbanner.chaseGame": "Dira Papadi ya go Kitimišana",
+    "hocbanner.createAStory": "Hlama kanegelo",
+    "hocbanner.animateACharacter": "Dira seswantšho sa motšeakarolo",
     "welcome.welcomeToScratch": "O amogetšwe go Scratch!",
     "welcome.learn": "Ithute gore o dira bjang projeke go Scratch",
     "welcome.tryOut": "Leka diprojeke tša go thoma",
     "welcome.connect": "Ikgokaganye le bašomiši ba bangwe ba Scratch",
     "activity.seeUpdates": "Mo ke fao o tla bonago tšeo di lego nakong go tšwa go bašomiši ba bangwe ba Scratch bao o ba latelago",
-    "activity.checkOutScratchers": "Lekola bašomiši ba bangwe ba Scratch bao o ka ratago go ba latela"
+    "activity.checkOutScratchers": "Lekola bašomiši ba bangwe ba Scratch bao o ka ratago go ba latela",
+    "featurebanner.highContrast.comingSoon": "COMING SOON: Color Contrast in Scratch!",
+    "featurebanner.highContrast.forumTitle": "Block Color Settings and Site Updates",
+    "featurebanner.highContrast.learnMore": "Ithute go feta"
 }

@@ -47,5 +47,6 @@
     "project.cloudDataLink": "Gw. Data",
     "project.usernameBlockAlert": "Mae'r project yn gallu canfod pwy sy'n ei ddefnyddio, drwy'r bloc \"enw defnyddiwr\". I guddio pwy ydych chi, allgofnodwch cyn defnyddio'r project.",
     "project.inappropriateUpdate": "Hmm,,, mae'r canfyddwr geiriau drwg yn meddwl fod yna broblem gyda'ch testun. Newidiwch hwn a chofiwch fod yn barchus.",
-    "project.mutedAddToStudio": "Byddwch yn gallu ychwanegu at stiwdios eto {inDuration}."
+    "project.mutedAddToStudio": "Byddwch yn gallu ychwanegu at stiwdios eto {inDuration}.",
+    "project.cloudDataAndVideoAlert": "Am resymau diogelwch, mae amrywiolion cwmwl wedi'u hanalluogi yn y project hwn gan ei fod yn cynnwys blociau synhwyro fideo."
 }

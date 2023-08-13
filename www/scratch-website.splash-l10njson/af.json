@@ -34,6 +34,7 @@
     "teacherbanner.classesButton": "My Klasse",
     "teacherbanner.faqButton": "Onderwysersrekening AV",
     "hocbanner.title": "Wees Kreatief met Kodering!",
+    "hocbanner.titleTellStory": "Tell Your Story with Scratch!",
     "hocbanner.moreActivities": "Sien meer aktiwiteite",
     "hocbanner.imagine": "Verbeel 'n wêreld",
     "hocbanner.codeACartoon": "Kodeer 'n Strokiesprent",
@@ -41,10 +42,15 @@
     "hocbanner.makeItFly": "Laat dit Vlieg",
     "hocbanner.makeMusic": "Maak Musiek",
     "hocbanner.chaseGame": "Skep 'n Jaag Speletjie",
+    "hocbanner.createAStory": "Skep 'n Storie",
+    "hocbanner.animateACharacter": "Animeer 'n Karakter",
     "welcome.welcomeToScratch": "Welkom by Scratch!",
     "welcome.learn": "Leer hoe om 'n projek in Scratch te skep",
     "welcome.tryOut": "Probeer die aanvangsprojekte",
     "welcome.connect": "Maak kontak met ander Scratchers",
     "activity.seeUpdates": "Hier sal jy opdaterings van Scratchers wat jy volg kan sien",
-    "activity.checkOutScratchers": "Sien Scratchers wat jy dalk sal wil volg"
+    "activity.checkOutScratchers": "Sien Scratchers wat jy dalk sal wil volg",
+    "featurebanner.highContrast.comingSoon": "COMING SOON: Color Contrast in Scratch!",
+    "featurebanner.highContrast.forumTitle": "Block Color Settings and Site Updates",
+    "featurebanner.highContrast.learnMore": "Leer Meer"
 }

@@ -34,6 +34,7 @@
     "teacherbanner.classesButton": "私のクラス",
     "teacherbanner.faqButton": "教師アカウントのFAQ",
     "hocbanner.title": "コーディングでクリエイティブに！",
+    "hocbanner.titleTellStory": "スクラッチであなたのストーリーを語ろう！",
     "hocbanner.moreActivities": "もっとアクティビティを見てみよう",
     "hocbanner.imagine": "世界を想像しよう",
     "hocbanner.codeACartoon": "アニメ映画をコーディングしよう",
@@ -41,10 +42,15 @@
     "hocbanner.makeItFly": "キャラクターを飛ばそう",
     "hocbanner.makeMusic": "音楽を作ろう",
     "hocbanner.chaseGame": "追跡ゲームを作ろう",
+    "hocbanner.createAStory": "物語を作ろう",
+    "hocbanner.animateACharacter": "キャラクターを動かそう",
     "welcome.welcomeToScratch": "Scratchへようこそ!",
     "welcome.learn": "Scratchでプロジェクトを作るには",
     "welcome.tryOut": "初心者向けプロジェクトを試す",
     "welcome.connect": "他のScratcherと交流する",
     "activity.seeUpdates": "フォローしているScratcherからの更新情報がここに表示されます",
-    "activity.checkOutScratchers": "フォローしたいかもしれないScratcherを確認してみましょう"
+    "activity.checkOutScratchers": "フォローしたいかもしれないScratcherを確認してみましょう",
+    "featurebanner.highContrast.comingSoon": "近日公開: Scratchのカラーコントラスト！",
+    "featurebanner.highContrast.forumTitle": "ブロック色設定とサイトアップデート",
+    "featurebanner.highContrast.learnMore": "もっと詳しく"
 }
