@@ -34,6 +34,7 @@
     "teacherbanner.classesButton": "ჩემი კლასები",
     "teacherbanner.faqButton": "მასწავლებლის ანგარიშის კითხვა-პასუხი",
     "hocbanner.title": "Get Creative with Coding!",
+    "hocbanner.titleTellStory": "Tell Your Story with Scratch!",
     "hocbanner.moreActivities": "See more activities",
     "hocbanner.imagine": "წარმოიდგინე სამყარო, სადაც",
     "hocbanner.codeACartoon": "შექმენი მულტფილმის პროგრამა",
@@ -41,10 +42,15 @@
     "hocbanner.makeItFly": "გავფრინდეთ?",
     "hocbanner.makeMusic": "შექმენი მუსიკა",
     "hocbanner.chaseGame": "შექმენი ნადირობანას თამაში",
+    "hocbanner.createAStory": "შექმენი ამბავი",
+    "hocbanner.animateACharacter": "გააცოცხლე პერსონაჟი",
     "welcome.welcomeToScratch": "კეთილი იყოს შენი მობრძანება Scratch-ში!",
     "welcome.learn": "ისწავლე პროექტის შექმნა Scratch-ში",
     "welcome.tryOut": "სცადე სასტარტო პროექტები",
     "welcome.connect": "დაუკავშირდი სხვა სკრეთჩერებს",
     "activity.seeUpdates": "This is where you will see updates from Scratchers you follow",
-    "activity.checkOutScratchers": "Check out some Scratchers you might like to follow"
+    "activity.checkOutScratchers": "Check out some Scratchers you might like to follow",
+    "featurebanner.highContrast.comingSoon": "COMING SOON: Color Contrast in Scratch!",
+    "featurebanner.highContrast.forumTitle": "Block Color Settings and Site Updates",
+    "featurebanner.highContrast.learnMore": "მეტის გაგება"
 }

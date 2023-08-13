@@ -34,6 +34,7 @@
     "teacherbanner.classesButton": "ថ្នាក់ខ្ញុំ",
     "teacherbanner.faqButton": "សំណួរពេញនិយមពីគណនីគ្រូ",
     "hocbanner.title": "បង្កើនការច្នៃប្រឌិតជាមួយនឹងការសរសេរកូដ!",
+    "hocbanner.titleTellStory": "Tell Your Story with Scratch!",
     "hocbanner.moreActivities": "មើលសកម្មភាពផ្សេងទៀត",
     "hocbanner.imagine": "ស្រមៃពីពិភពមួយ",
     "hocbanner.codeACartoon": "សរសេរកូដបង្កើតរឿងតុក្កតា",
@@ -41,10 +42,15 @@
     "hocbanner.makeItFly": "ធ្វើឲ្យវាហោះ",
     "hocbanner.makeMusic": "បង្កើតតន្រ្តី",
     "hocbanner.chaseGame": "បង្កើតហ្គេមដេញចាប់",
+    "hocbanner.createAStory": "បង្កើតរឿង",
+    "hocbanner.animateACharacter": "ធ្វើឲ្យតួអង្គមានចលនា",
     "welcome.welcomeToScratch": "សូមស្វាគមន៍មកកាន់ Scratch!",
     "welcome.learn": "រៀនពីការបង្កើត​កិច្ចការ​ក្នុង Scratch",
     "welcome.tryOut": "សាកល្បងកិច្ចការស្រួលៗ",
     "welcome.connect": "ទាក់ទងជាមួយអ្នកប្រើ​ Scratch ផ្សេងទៀត",
     "activity.seeUpdates": "នេះជាកន្លែងដែលអ្នកនឹងឃើញព័ត៌មានថ្មីៗពីអ្នកប្រើប្រាស់ Scratch ដែលអ្នកតាម",
-    "activity.checkOutScratchers": "សាកមើលអ្នកប្រើប្រាស់ Scratch មួយចំនួនដែលអ្នកអាចនឹងចង់តាម"
+    "activity.checkOutScratchers": "សាកមើលអ្នកប្រើប្រាស់ Scratch មួយចំនួនដែលអ្នកអាចនឹងចង់តាម",
+    "featurebanner.highContrast.comingSoon": "COMING SOON: Color Contrast in Scratch!",
+    "featurebanner.highContrast.forumTitle": "Block Color Settings and Site Updates",
+    "featurebanner.highContrast.learnMore": "ស្វែងយល់បន្ថែម"
 }

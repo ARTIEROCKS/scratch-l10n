@@ -34,6 +34,7 @@
     "teacherbanner.classesButton": "Mis Clases",
     "teacherbanner.faqButton": "Cuentas de maestros",
     "hocbanner.title": "¡Se creativo con la programación!",
+    "hocbanner.titleTellStory": "¡Cuenta tu historia con Scratch!",
     "hocbanner.moreActivities": "Ver más actividades",
     "hocbanner.imagine": "Imagina un Mundo",
     "hocbanner.codeACartoon": "Programa unos dibujos animados",
@@ -41,10 +42,15 @@
     "hocbanner.makeItFly": "Hazlo volar",
     "hocbanner.makeMusic": "Crear música",
     "hocbanner.chaseGame": "Crear un juego de persecución",
+    "hocbanner.createAStory": "Crear una historia",
+    "hocbanner.animateACharacter": "Animar un personaje",
     "welcome.welcomeToScratch": "¡Bienvenido a Scratch!",
     "welcome.learn": "Aprende a hacer un proyecto en Scratch",
     "welcome.tryOut": "Prueba los proyectos de inicio",
     "welcome.connect": "Conéctate con otros Scratchers",
     "activity.seeUpdates": "Aquí es donde verás las novedades de los Scratchers a los que sigues",
-    "activity.checkOutScratchers": "Échale un vistazo a algunos Scratchers que te podría interesar seguir"
+    "activity.checkOutScratchers": "Échale un vistazo a algunos Scratchers que te podría interesar seguir",
+    "featurebanner.highContrast.comingSoon": "PRÓXIMAMENTE: ¡Contraste de color en Scratch!",
+    "featurebanner.highContrast.forumTitle": "Configuración de bloques de color y actualizaciones de el sitio",
+    "featurebanner.highContrast.learnMore": "Aprende más"
 }

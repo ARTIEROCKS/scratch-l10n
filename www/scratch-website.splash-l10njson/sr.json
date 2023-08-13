@@ -34,6 +34,7 @@
     "teacherbanner.classesButton": "Моја одељења",
     "teacherbanner.faqButton": "Често постављана питања за налог наставника",
     "hocbanner.title": "Постани креативан кроз програмирање!",
+    "hocbanner.titleTellStory": "Tell Your Story with Scratch!",
     "hocbanner.moreActivities": "Погледај више активности",
     "hocbanner.imagine": "Замисли свет",
     "hocbanner.codeACartoon": "Програмирај цртани филм",
@@ -41,10 +42,15 @@
     "hocbanner.makeItFly": "Учини да лети",
     "hocbanner.makeMusic": "Стварај музику",
     "hocbanner.chaseGame": "Направи игру потере",
+    "hocbanner.createAStory": "Направи причу",
+    "hocbanner.animateACharacter": "Анимирај лик",
     "welcome.welcomeToScratch": "Добродошао у Скрач!",
     "welcome.learn": "Научи како да направиш пројекат у Скрачу",
     "welcome.tryOut": "Пробај наше почетничке пројекте",
     "welcome.connect": "Повежи се са Скрачерима",
-    "activity.seeUpdates": "Овде ћеш видети ажурирања за Скрачере које следиш",
-    "activity.checkOutScratchers": "Погледај неке Скрачере за које ће да ти буде интересантно да их следиш"
+    "activity.seeUpdates": "Овде ћеш видети новости од Скрачере које патиш",
+    "activity.checkOutScratchers": "Погледај неке Скрачере за које ће да ти буде интересантно да их следиш",
+    "featurebanner.highContrast.comingSoon": "COMING SOON: Color Contrast in Scratch!",
+    "featurebanner.highContrast.forumTitle": "Block Color Settings and Site Updates",
+    "featurebanner.highContrast.learnMore": "Сазнај више"
 }

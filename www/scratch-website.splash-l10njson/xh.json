@@ -34,6 +34,7 @@
     "teacherbanner.classesButton": "Iiklas Zam",
     "teacherbanner.faqButton": "i-Akhawunti kaTitshala ,imibuzo ebuzwa rhoqo",
     "hocbanner.title": "Yiba nobuGcisa ngokukhowda!",
+    "hocbanner.titleTellStory": "Tell Your Story with Scratch!",
     "hocbanner.moreActivities": "Bona eminye imisebenzi nangakumbi",
     "hocbanner.imagine": "Yiba nomfanekiso ngqondweni wehlabathi",
     "hocbanner.codeACartoon": "Khowuda umzobo wopopayi",
@@ -41,10 +42,15 @@
     "hocbanner.makeItFly": "Yibhabhise",
     "hocbanner.makeMusic": "Yenza Umculo",
     "hocbanner.chaseGame": "Yenza Umdlalo Wokuleqa",
+    "hocbanner.createAStory": "Qweba ibali",
+    "hocbanner.animateACharacter": "Zisa abalinganiswa ebomini.",
     "welcome.welcomeToScratch": "Wamkelekile ku-Scratch",
     "welcome.learn": "Funda indlela yokwenza iprojekth ku Scratch",
     "welcome.tryOut": "Zama iiprojekth zokuqalisa",
     "welcome.connect": "Nxibelelana nabanye abasebenzisi be-Scratch",
     "activity.seeUpdates": "Apha kulapho uzakubona khona uhlaziyo olusuka kubasebenzisi be-Scratchers obalandelayo",
-    "activity.checkOutScratchers": "Khangela abanye abasebenzisi be- Scratchers onokuthanda ukubalandela"
+    "activity.checkOutScratchers": "Khangela abanye abasebenzisi be- Scratchers onokuthanda ukubalandela",
+    "featurebanner.highContrast.comingSoon": "COMING SOON: Color Contrast in Scratch!",
+    "featurebanner.highContrast.forumTitle": "Block Color Settings and Site Updates",
+    "featurebanner.highContrast.learnMore": "Funda Ngaphezulu"
 }

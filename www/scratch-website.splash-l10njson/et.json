@@ -24,7 +24,7 @@
     "intro.startCreating": "Start Creating",
     "intro.tagLine1": "Lugude, mängude ja animatsioonide loomine",
     "intro.tagLine2": "ning jagamine teistega üle maailma",
-    "intro.watchVideo": "Watch Video",
+    "intro.watchVideo": "Vaata videot",
     "news.scratchNews": "Scratchi uudised",
     "donatebanner.askSupport": "Scratch is the world's largest free coding community for kids. Your support makes a difference.",
     "donatebanner.scratchWeek": "May 19-20 is Scratch’s 15th Anniversary! {celebrationLink}. Donate to support creative coding worldwide.",
@@ -34,6 +34,7 @@
     "teacherbanner.classesButton": "Minu Klassid",
     "teacherbanner.faqButton": "Teacher Account FAQ",
     "hocbanner.title": "Get Creative with Coding!",
+    "hocbanner.titleTellStory": "Tell Your Story with Scratch!",
     "hocbanner.moreActivities": "See more activities",
     "hocbanner.imagine": "Kujuta ette Maailma",
     "hocbanner.codeACartoon": "Proge multikas",
@@ -41,10 +42,15 @@
     "hocbanner.makeItFly": "Make It Fly",
     "hocbanner.makeMusic": "Tee muusikat",
     "hocbanner.chaseGame": "Loo püüdmismäng",
+    "hocbanner.createAStory": "Create a Story",
+    "hocbanner.animateACharacter": "Animate a Character",
     "welcome.welcomeToScratch": "Tere tulemast Scratchi!",
     "welcome.learn": "Vaata, kuidas teha Scratchi projekti",
     "welcome.tryOut": "Proovi stardiprojekte",
     "welcome.connect": "Võta ühendust teiste scratchijatega",
     "activity.seeUpdates": "Siin näed uuendusi scratchijatelt, keda jälgid",
-    "activity.checkOutScratchers": "Check out some Scratchers you might like to follow"
+    "activity.checkOutScratchers": "Check out some Scratchers you might like to follow",
+    "featurebanner.highContrast.comingSoon": "VARSTI TULEB: värvikontrastsus Scratchis!",
+    "featurebanner.highContrast.forumTitle": "Plokki värvisätted ja saidi värskendused",
+    "featurebanner.highContrast.learnMore": "Loe veel"
 }

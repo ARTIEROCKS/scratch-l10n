@@ -34,6 +34,7 @@
     "teacherbanner.classesButton": "پۆلەکانم",
     "teacherbanner.faqButton": "پرسیارە دووبارەبووەکانی هەژماری فێرکار",
     "hocbanner.title": "Get Creative with Coding!",
+    "hocbanner.titleTellStory": "Tell Your Story with Scratch!",
     "hocbanner.moreActivities": "بینینی چالاکی زیاتر",
     "hocbanner.imagine": "وێناکردنی جیهانێک",
     "hocbanner.codeACartoon": "کارتۆنێک کۆد بکە",
@@ -41,10 +42,15 @@
     "hocbanner.makeItFly": "ئەنجامدانی فڕین",
     "hocbanner.makeMusic": "دروستکردنی میوزیک",
     "hocbanner.chaseGame": "دروستکردنی یاری ڕاونان",
+    "hocbanner.createAStory": "دروستکردنی چیرۆکێک",
+    "hocbanner.animateACharacter": "جوڵەپێکردنی کەسایەتییەک",
     "welcome.welcomeToScratch": "بەخێربێیت بۆ سکڕاچ!",
     "welcome.learn": "فێربە کە چۆن پڕۆژەیەک لە سکڕاچ دروست دەکەیت",
     "welcome.tryOut": "پڕۆژە دەستپێکەکان تاقی بکەوە",
     "welcome.connect": "لەگەڵ سکڕاچەرەکانی تر پەیوەندی بکە",
     "activity.seeUpdates": "This is where you will see updates from Scratchers you follow",
-    "activity.checkOutScratchers": "Check out some Scratchers you might like to follow"
+    "activity.checkOutScratchers": "Check out some Scratchers you might like to follow",
+    "featurebanner.highContrast.comingSoon": "COMING SOON: Color Contrast in Scratch!",
+    "featurebanner.highContrast.forumTitle": "Block Color Settings and Site Updates",
+    "featurebanner.highContrast.learnMore": "زیاتر فێربە"
 }
