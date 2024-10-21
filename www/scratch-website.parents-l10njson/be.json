@@ -23,7 +23,7 @@
     "parents.faqIdeasLinkText": "Ідэі",
     "parents.faqStepByStepGuideLinkText": "step-by-step guide",
     "parents.faqGettingStartedGuideLinkText": "\"З чаго пачаць\" дапаможнік (PDF)",
-    "parents.faqScratchCardsLinkText": "Scratch Cards",
+    "parents.faqScratchCardsLinkText": "Карткі Scratch",
     "parents.faqTipsLinkText": "Парады",
     "parents.faqCommunityTitle": "Што такое анлайн суполка Scratch?",
     "parents.faqCommunityBody": "When participating in the Scratch online community, members can explore and experiment in an open learning community with other Scratch members from all backgrounds, ages, and interests. Members can share their work, get feedback, and learn from each other.",
@@ -35,7 +35,7 @@
     "parents.faqFAQLinkText": "frequently asked questions page",
     "parents.faqOfflineTitle": "Is there a way to use Scratch without participating online?",
     "parents.faqOfflineBody": "Yes, the Scratch app allows you to create Scratch projects without an internet connection. You can download the {scratchApp} from the Scratch website or the app store on your device.",
-    "parents.faqScratchApp": "Scratch app",
+    "parents.faqScratchApp": "Дастасаванне Scratch",
     "parents.faqOffline2LinkText": "Scratch 2.0 офлайн рэдактар",
     "parents.faqOffline14LinkText": "Scratch 1.4 офлайн рэдактар"
 }

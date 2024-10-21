@@ -34,6 +34,7 @@
     "teacherbanner.classesButton": "Οι Τάξεις Μου",
     "teacherbanner.faqButton": "Συχνές Ερωτήσεις για τον Λογαριασμό Εκπαιδευτικού",
     "hocbanner.title": "Get Creative with Coding!",
+    "hocbanner.titleTellStory": "Tell Your Story with Scratch!",
     "hocbanner.moreActivities": "See more activities",
     "hocbanner.imagine": "Φαντάσου έναν Κόσμο",
     "hocbanner.codeACartoon": "Προγραμμάτισε ένα Κινούμενο Σχέδιο",
@@ -41,10 +42,15 @@
     "hocbanner.makeItFly": "Κάνε Το να Πετάξει",
     "hocbanner.makeMusic": "Δημιούργησε Μουσική",
     "hocbanner.chaseGame": "Φτιάξε ένα Παιχνίδι Κυνηγητού",
+    "hocbanner.createAStory": "Δημιούργησε μια Ιστορία",
+    "hocbanner.animateACharacter": "Ζωντάνεψε έναν Χαρακτήρα",
     "welcome.welcomeToScratch": "Καλωσορίσατε στο Scratch!",
     "welcome.learn": "Μάθετε πως να δημιουργήσετε ένα έργο στο Scratch",
     "welcome.tryOut": "Δοκιμάστε τα εισαγωγικά έργα",
     "welcome.connect": "Επικοινωνήστε με άλλους χρήστες",
     "activity.seeUpdates": "Εδώ θα βλέπετε ενημερώσεις από άλλα μέλη που ακολουθείτε",
-    "activity.checkOutScratchers": "Check out some Scratchers you might like to follow"
+    "activity.checkOutScratchers": "Check out some Scratchers you might like to follow",
+    "featurebanner.highContrast.comingSoon": "COMING SOON: Color Contrast in Scratch!",
+    "featurebanner.highContrast.forumTitle": "Block Color Settings and Site Updates",
+    "featurebanner.highContrast.learnMore": "Μάθετε περισσότερα"
 }

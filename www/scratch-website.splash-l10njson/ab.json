@@ -34,6 +34,7 @@
     "teacherbanner.classesButton": "Сара сыклассқәа",
     "teacherbanner.faqButton": "ЛЛИ арҵаҩы иаккаунтазы",
     "hocbanner.title": "Get Creative with Coding!",
+    "hocbanner.titleTellStory": "Tell Your Story with Scratch!",
     "hocbanner.moreActivities": "See more activities",
     "hocbanner.imagine": "Шәазхәыц шәара шә-Дунеи",
     "hocbanner.codeACartoon": "Амультфильм акод",
@@ -41,10 +42,15 @@
     "hocbanner.makeItFly": "Ишәырԥыр",
     "hocbanner.makeMusic": "Иаԥышәҵа амузыка",
     "hocbanner.chaseGame": "Иаԥышәҵа аиԥхныҩлара иазку ахәмарра",
+    "hocbanner.createAStory": "Иаԥышәҵа џьара ҭоурыхк",
+    "hocbanner.animateACharacter": "Аперсонаж аԥсы ҭаҵа",
     "welcome.welcomeToScratch": "Бзиала шәаабеит Scratch аҟны!",
     "welcome.learn": "Иеилышәкаа, Scratch аҟны апроектқәа шыҟаҵатәу ",
     "welcome.tryOut": "Иԥышәа алагаратә проектқәа",
     "welcome.connect": "Scratcher -цәа рыҽрымадара",
     "activity.seeUpdates": "Ара шәара ижәбоит шәзыцклаԥшуа Скретчерцәа рҟынтәи арҿыцрақәа",
-    "activity.checkOutScratchers": "Шәрыхәаԥш Скретчерцәа, зусумҭа шәахәаԥшырц шәҭаху"
+    "activity.checkOutScratchers": "Шәрыхәаԥш Скретчерцәа, зусумҭа шәахәаԥшырц шәҭаху",
+    "featurebanner.highContrast.comingSoon": "Иаарласны: Аԥштәы аконтраст Scratch аҟны!",
+    "featurebanner.highContrast.forumTitle": "Аблокқәа рыԥштәқәа рырхиареи асаит арҿыцреи",
+    "featurebanner.highContrast.learnMore": "Иеиҳаны аилкаара"
 }
